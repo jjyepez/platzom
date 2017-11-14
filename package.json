@@ -1,5 +1,5 @@
 {
-  "name": "jjyepez-platzom",
+  "name": "@jjyepez/platzom",
   "version": "0.1.0",
   "description": "Proyecto Platzom del curso de Fundamentos de Javascript en Platzi",
   "main": "dist/src/platzom.js",
